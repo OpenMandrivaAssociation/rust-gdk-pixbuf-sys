@@ -5,8 +5,8 @@
 %global crate gdk-pixbuf-sys
 
 Name:           rust-%{crate}
-Version:        0.9.1
-Release:        3%{?dist}
+Version:        0.22.0
+Release:        1%{?dist}
 Summary:        FFI bindings to libgdk_pixbuf-2.0
 
 # Upstream license specification: MIT
